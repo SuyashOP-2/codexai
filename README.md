@@ -1,0 +1,6 @@
+CodexAI is the AI based web application which interacts with userin a
+conversational way.
+Developed fully functional app with react js as front end and node js as
+backend
+OpenAI API is used to fetch the data for Application
+
